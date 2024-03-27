@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhtawar-kashif22&label=Profile%20views&color=0e75b6&style=flat" alt="bakhtawar-kashif22" /> </p>
 
-- 🌱 I’m currently learning **RISC-V,**
+- 🌱 I’m currently learning **RISC-V,CHIP DESIGN**
 
 - 💬 Ask me about **C-Programming, HARDWARE System Design (Verilog), Machine Learning**
 
